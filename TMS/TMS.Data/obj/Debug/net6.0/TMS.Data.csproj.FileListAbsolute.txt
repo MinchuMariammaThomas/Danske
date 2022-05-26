@@ -1,0 +1,17 @@
+D:\Minchu\Infosys\DanskeAssessment\TMS\TMS.Data\bin\Debug\net6.0\TMS.Data.deps.json
+D:\Minchu\Infosys\DanskeAssessment\TMS\TMS.Data\bin\Debug\net6.0\TMS.Data.dll
+D:\Minchu\Infosys\DanskeAssessment\TMS\TMS.Data\bin\Debug\net6.0\TMS.Data.pdb
+D:\Minchu\Infosys\DanskeAssessment\TMS\TMS.Data\obj\Debug\net6.0\TMS.Data.csproj.AssemblyReference.cache
+D:\Minchu\Infosys\DanskeAssessment\TMS\TMS.Data\obj\Debug\net6.0\TMS.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Minchu\Infosys\DanskeAssessment\TMS\TMS.Data\obj\Debug\net6.0\TMS.Data.AssemblyInfoInputs.cache
+D:\Minchu\Infosys\DanskeAssessment\TMS\TMS.Data\obj\Debug\net6.0\TMS.Data.AssemblyInfo.cs
+D:\Minchu\Infosys\DanskeAssessment\TMS\TMS.Data\obj\Debug\net6.0\TMS.Data.csproj.CoreCompileInputs.cache
+D:\Minchu\Infosys\DanskeAssessment\TMS\TMS.Data\obj\Debug\net6.0\TMS.Data.dll
+D:\Minchu\Infosys\DanskeAssessment\TMS\TMS.Data\obj\Debug\net6.0\refint\TMS.Data.dll
+D:\Minchu\Infosys\DanskeAssessment\TMS\TMS.Data\obj\Debug\net6.0\TMS.Data.pdb
+D:\Minchu\Infosys\DanskeAssessment\TMS\TMS.Data\obj\Debug\net6.0\ref\TMS.Data.dll
+D:\Minchu\Infosys\DanskeAssessment\TMS\TMS.Data\bin\Debug\net6.0\TMS.Data.Contracts.dll
+D:\Minchu\Infosys\DanskeAssessment\TMS\TMS.Data\bin\Debug\net6.0\TMS.Data.Contracts.pdb
+D:\Minchu\Infosys\DanskeAssessment\TMS\TMS.Data\obj\Debug\net6.0\TMS.Data.csproj.CopyComplete
+D:\Minchu\Infosys\DanskeAssessment\TMS\TMS.Data\bin\Debug\net6.0\TMS.Domain.Contracts.dll
+D:\Minchu\Infosys\DanskeAssessment\TMS\TMS.Data\bin\Debug\net6.0\TMS.Domain.Contracts.pdb
